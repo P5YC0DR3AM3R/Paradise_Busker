@@ -4,7 +4,7 @@ The Key West Treasure Hunt Game combines live music discovery and real-world int
 
 ## Terms of Service
 
-**Last Updated:** [Date]
+**Last Updated:** 10/10/24
 
 Welcome to Paradise Busker Artiverse and our first game, Key West Treasure Hunt (collectively, the "Service"). By accessing or using our game and related services, you agree to be bound by these Terms of Service ("Terms"). If you do not agree with these Terms, you should not use the Service.    [cite: 209, 210, 211, 212]
 
