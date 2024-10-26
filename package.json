@@ -1,0 +1,26 @@
+{
+  "name": "paradise_busker",
+  "version": "0.0.1",
+  "description": "A discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P5YC0DR3AM3R/Paradise_Busker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P5YC0DR3AM3R/Paradise_Busker/issues"
+  },
+  "homepage": "https://github.com/P5YC0DR3AM3R/Paradise_Busker#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
