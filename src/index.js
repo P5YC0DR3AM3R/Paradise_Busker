@@ -22,7 +22,13 @@ client.on(Events.MessageCreate, (message) => {
 
   // call command callback
   const func = commands[cmd[0]] ?? null;
-  if (func) message.reply(func(cmd.slice(1)));
+  if (func) {
+    const user = message.author;
+    const args = cmd.slice(1);
+
+    const res = func(user, args);
+    if (res) message.reply(res);
+  }
 });
 
 // start client
